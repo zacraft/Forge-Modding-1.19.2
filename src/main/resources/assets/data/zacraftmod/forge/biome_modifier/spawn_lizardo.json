@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:desert"
+  ],
+  "spawners": {
+    "type": "zacraftmod:lizardo",
+    "weight": 150,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}
